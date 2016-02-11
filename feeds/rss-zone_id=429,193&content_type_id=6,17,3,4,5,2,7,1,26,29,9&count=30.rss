@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>CSC: Business Solutions, Technology, Outsourcing</title>
+    <description>CSC: Business Solutions, Technology, Outsourcing</description>
+    <link>http://www.csc.com</link>
+    <language>en-us</language>
+    <item>
+      <title>The Need to Address the Application Lifecycle</title>
+      <description>Simply put, without Enterprise Cloud Management you can’t provide “everything as a service IT” to your business users and developers without the risk of governance, compliance and security issues that can be costly to your enterprise financially and damaging to its reputation.</description>
+      <pubDate>Fri, 20 Dec 2013 08:31:52 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/105153-the_need_to_address_the_application_lifecycle</link>
+      <guid>http://www.csc.com/cloud/insights/105153-the_need_to_address_the_application_lifecycle</guid>
+    </item>
+    <item>
+      <title>Why Enterprise Cloud Management?</title>
+      <description>Enterprise Cloud Management enables self-service, on-demand deployment and management of applications and services across private, public and hybrid clouds. </description>
+      <pubDate>Fri, 20 Dec 2013 08:32:17 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/105149-why_enterprise_cloud_management</link>
+      <guid>http://www.csc.com/cloud/insights/105149-why_enterprise_cloud_management</guid>
+    </item>
+    <item>
+      <title>Managing a Hybrid Cloud Ecosystem</title>
+      <description>Enterprise Cloud Management enables self-service, on-demand deployment and management of applications and services across private, public and hybrid clouds.</description>
+      <pubDate>Fri, 07 Feb 2014 17:04:30 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/105145-managing_a_hybrid_cloud_ecosystem</link>
+      <guid>http://www.csc.com/cloud/insights/105145-managing_a_hybrid_cloud_ecosystem</guid>
+    </item>
+    <item>
+      <title>Accelerating DevOps Leveraging the Cloud </title>
+      <description>ServiceMesh’s DevOps solution automates and governs key aspects of the Dev-to-Ops lifecycle to increase the speed and frequency of software releases without sacrificing the quality and reliability of software in production.</description>
+      <pubDate>Fri, 07 Feb 2014 17:03:46 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/105141-accelerating_devops_leveraging_the_cloud</link>
+      <guid>http://www.csc.com/cloud/insights/105141-accelerating_devops_leveraging_the_cloud</guid>
+    </item>
+    <item>
+      <title>Security and Governance in an Enterprise Hybrid Cloud</title>
+      <description>Enterprise Cloud Management enables self-service, on-demand deployment and management of applications and services across private, public and hybrid clouds.</description>
+      <pubDate>Fri, 20 Dec 2013 08:32:02 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/105137-security_and_governance_in_an_enterprise_hybrid_cloud</link>
+      <guid>http://www.csc.com/cloud/insights/105137-security_and_governance_in_an_enterprise_hybrid_cloud</guid>
+    </item>
+    <item>
+      <title>Hybrid Cloud</title>
+      <description>Effective, centralized governance across a hybrid cloud environment is not only necessary, but accelerates enterprise cloud adoption and business benefit realization.</description>
+      <pubDate>Fri, 07 Feb 2014 17:04:20 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/105069-hybrid_cloud</link>
+      <guid>http://www.csc.com/cloud/insights/105069-hybrid_cloud</guid>
+    </item>
+    <item>
+      <title>Agility Operations</title>
+      <description>Operations consolidates all cloud environments managed by the Agility Platform into a single runtime management console with fine-grain visibility into costs, resource consumption, workload performance and more.</description>
+      <pubDate>Wed, 18 Dec 2013 08:58:27 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/104989-agility_operations</link>
+      <guid>http://www.csc.com/cloud/insights/104989-agility_operations</guid>
+    </item>
+    <item>
+      <title>Agility Release Manager</title>
+      <description>Release Manager increases the speed and frequency of software releases by promoting software builds and environments across the SDLC with governance, automation and control.</description>
+      <pubDate>Wed, 18 Dec 2013 08:58:35 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/104985-agility_release_manager</link>
+      <guid>http://www.csc.com/cloud/insights/104985-agility_release_manager</guid>
+    </item>
+    <item>
+      <title>Agility Store</title>
+      <description>Store is a fully governed, self-service portal to access standardized and customizable applications, platforms, and other "as a service" offerings for on-demand deployment.</description>
+      <pubDate>Thu, 02 Jan 2014 16:17:08 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/104981-agility_store</link>
+      <guid>http://www.csc.com/cloud/insights/104981-agility_store</guid>
+    </item>
+    <item>
+      <title>Agility Designer</title>
+      <description>A highly versatile, graphical workbench to assemble portable stacks, templates, and multi-tier application blueprints for deployment across hybrid clouds.</description>
+      <pubDate>Tue, 31 Dec 2013 15:00:14 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/104977-agility_designer</link>
+      <guid>http://www.csc.com/cloud/insights/104977-agility_designer</guid>
+      <enclosure url="//assets1.csc.com/cloud/images/blueprint_designer_page.jpg" type="image"/>
+    </item>
+    <item>
+      <title>ServiceMesh Agility Platform™</title>
+      <description>A consolidated platform for cloud management, governance, and security across multiple heterogeneous public and private clouds.</description>
+      <pubDate>Fri, 07 Feb 2014 16:39:28 -0500</pubDate>
+      <link>http://www.csc.com/cloud/offerings/53410/104965-servicemesh_agility_platform</link>
+      <guid>http://www.csc.com/cloud/offerings/53410/104965-servicemesh_agility_platform</guid>
+    </item>
+    <item>
+      <title>5 Cloud Security Myths Debunked</title>
+      <description>It’s time to separate fact from fiction and debunk some cloud security myths regarding Infrastructure as a Service — the building block for all other cloud services.</description>
+      <pubDate>Wed, 20 Nov 2013 09:56:49 -0500</pubDate>
+      <link>http://www.csc.com/cloud/publications/91578/104057-5_cloud_security_myths_debunked</link>
+      <guid>http://www.csc.com/cloud/publications/91578/104057-5_cloud_security_myths_debunked</guid>
+    </item>
+    <item>
+      <title>Golden State Foods Increases Agility and Controls Costs with Cloud</title>
+      <description>Golden State Foods, which supplies McDonald’s, Starbucks and other quick-service restaurants, uses cloud solutions by CSC to compete for new business with speed and flexibility.</description>
+      <pubDate>Wed, 20 Nov 2013 09:57:44 -0500</pubDate>
+      <link>http://www.csc.com/cloud/publications/91578/104053-golden_state_foods_increases_agility_and_controls_costs_with_cloud</link>
+      <guid>http://www.csc.com/cloud/publications/91578/104053-golden_state_foods_increases_agility_and_controls_costs_with_cloud</guid>
+    </item>
+    <item>
+      <title>Gaining Trust in Enterprise Cloud Security</title>
+      <description>Understand cloud security risks and mitigation strategies. Discover how to overcome the challenges of governing security systemically across the solution stack.</description>
+      <pubDate>Fri, 20 Dec 2013 14:45:24 -0500</pubDate>
+      <link>http://www.csc.com/cloud/insights/104045-gaining_trust_in_enterprise_cloud_security</link>
+      <guid>http://www.csc.com/cloud/insights/104045-gaining_trust_in_enterprise_cloud_security</guid>
+    </item>
+    <item>
+      <title>Horses for Sources Not Ranking the One-Trick Ponies</title>
+      <description>Horses for Sources article and blog post</description>
+      <pubDate>Tue, 09 Jul 2013 10:44:22 -0400</pubDate>
+      <link>http://www.csc.com/cloud/blog/56858/100553-horses_for_sources_not_ranking_the_one_trick_ponies</link>
+      <guid>http://www.csc.com/cloud/blog/56858/100553-horses_for_sources_not_ranking_the_one_trick_ponies</guid>
+    </item>
+    <item>
+      <title>CSC Cloud Migration Services</title>
+      <description>Accelerate your time to value by leveraging CSC's cloud migration reference architecture, our global Migration Center of Excellence and industrialized, standardized migration processes.</description>
+      <pubDate>Thu, 12 Dec 2013 16:11:45 -0500</pubDate>
+      <link>http://www.csc.com/cloud/offerings/53410/100317-csc_cloud_migration_services</link>
+      <guid>http://www.csc.com/cloud/offerings/53410/100317-csc_cloud_migration_services</guid>
+    </item>
+    <item>
+      <title>International Resources Company Saves with CSC Enterprise Cloud</title>
+      <description>International resources company reduces cost and business risk with CSC Enterprise Cloud and WAVE (Workloads, Applications and Value for the Enterprise)</description>
+      <pubDate>Tue, 09 Jul 2013 12:05:39 -0400</pubDate>
+      <link>http://www.csc.com/cloud/success_stories/99749-international_resources_company_saves_with_csc_enterprise_cloud</link>
+      <guid>http://www.csc.com/cloud/success_stories/99749-international_resources_company_saves_with_csc_enterprise_cloud</guid>
+    </item>
+    <item>
+      <title>Healthcare firm H.D. Smith succeeds with the WAVE</title>
+      <description>Healthcare firm H.D. Smith uses CSC's WAVE method to migrate specific workloads and applications to the cloud in stages.</description>
+      <pubDate>Mon, 02 Dec 2013 14:19:32 -0500</pubDate>
+      <link>http://www.csc.com/cloud/success_stories/99697-healthcare_firm_h_d_smith_succeeds_with_the_wave</link>
+      <guid>http://www.csc.com/cloud/success_stories/99697-healthcare_firm_h_d_smith_succeeds_with_the_wave</guid>
+    </item>
+    <item>
+      <title>Four Waves to the Cloud</title>
+      <description>At H. D. Smith, a pharmaceutical distributor, the cloud is not a choice, but an imperative. CIO David Guzman, discusses why cloud computing offers compelling economics and capabilities.</description>
+      <pubDate>Fri, 24 Jan 2014 09:54:18 -0500</pubDate>
+      <link>http://www.csc.com/cloud/publications/91578/99341-four_waves_to_the_cloud</link>
+      <guid>http://www.csc.com/cloud/publications/91578/99341-four_waves_to_the_cloud</guid>
+    </item>
+    <item>
+      <title>5 Steps to Enterprise Cloud</title>
+      <description>Will the consumer cloud — the popular, low-cost service offered by Amazon and others — be to cloud what the iPhone was to mobile? Siki Giunta, vice president and general manager of cloud services at CSC, says no.</description>
+      <pubDate>Wed, 30 Oct 2013 16:08:29 -0400</pubDate>
+      <link>http://www.csc.com/cloud/publications/91578/99337-5_steps_to_enterprise_cloud</link>
+      <guid>http://www.csc.com/cloud/publications/91578/99337-5_steps_to_enterprise_cloud</guid>
+    </item>
+    <item>
+      <title>Why Enterprise Clouds Rule</title>
+      <description>Cloud computing has become a key part of an IT leader’s  toolkit. Many organizations use cloud for various reasons. It’s critical to select the appropriate cloud model.</description>
+      <pubDate>Tue, 18 Jun 2013 08:07:18 -0400</pubDate>
+      <link>http://www.csc.com/cloud/publications/91578/99333-why_enterprise_clouds_rule</link>
+      <guid>http://www.csc.com/cloud/publications/91578/99333-why_enterprise_clouds_rule</guid>
+    </item>
+    <item>
+      <title>3 Reasons to Believe in Hybrid Clouds</title>
+      <description>Cloud services come in different shapes and sizes. Lately, many organizations are turning to hybrid solutions and infrastructure models that can be tailored to specific needs.</description>
+      <pubDate>Tue, 18 Jun 2013 08:04:11 -0400</pubDate>
+      <link>http://www.csc.com/cloud/publications/91578/99329-3_reasons_to_believe_in_hybrid_clouds</link>
+      <guid>http://www.csc.com/cloud/publications/91578/99329-3_reasons_to_believe_in_hybrid_clouds</guid>
+    </item>
+    <item>
+      <title>Rising Above the Fast Food Nation</title>
+      <description>Commentary on a comparative cloud blog: which cloud companies correspond to which fast food chains...with a focus on offering, popularity and caliber!</description>
+      <pubDate>Fri, 17 May 2013 17:44:56 -0400</pubDate>
+      <link>http://www.csc.com/cloud/blog/56858/98453-rising_above_the_fast_food_nation</link>
+      <guid>http://www.csc.com/cloud/blog/56858/98453-rising_above_the_fast_food_nation</guid>
+    </item>
+    <item>
+      <title>EMC World &amp; Interop: After the Events</title>
+      <description>Post-event coverage of the EMC World and Interop events in Las Vegas, NV.</description>
+      <pubDate>Tue, 03 Sep 2013 16:53:34 -0400</pubDate>
+      <link>http://www.csc.com/cloud/blog/56858/98437-emc_world_interop_after_the_events</link>
+      <guid>http://www.csc.com/cloud/blog/56858/98437-emc_world_interop_after_the_events</guid>
+    </item>
+    <item>
+      <title>Webinar: Converged Threats, Integrated Defenses CSC/Symantec </title>
+      <description>CSC and Symantec’s webcast event to understand today’s threat landscape and discuss the defenses needed to keep your organization well protected.</description>
+      <pubDate>Mon, 01 Apr 2013 16:53:30 -0400</pubDate>
+      <link>http://www.csc.com/cloud/insights/97445-webinar_converged_threats_integrated_defenses_csc_symantec</link>
+      <guid>http://www.csc.com/cloud/insights/97445-webinar_converged_threats_integrated_defenses_csc_symantec</guid>
+    </item>
+    <item>
+      <title>Webinar: SAP in the Cloud: Stories from the Field</title>
+      <description>An interactive SAP insights webinar describing the business benefits of modernizing SAP infrastructure using cloud technology and services. This webinar features Mark Thorp, Alliance Director of SAP, Andy Sitison, EMC Director Application Sales and Sunil Bhargava, former CSC Global Portfolio Executive of Cloud Services. 
+
+</description>
+      <pubDate>Mon, 01 Apr 2013 10:41:58 -0400</pubDate>
+      <link>http://www.csc.com/cloud/insights/97425-webinar_sap_in_the_cloud_stories_from_the_field</link>
+      <guid>http://www.csc.com/cloud/insights/97425-webinar_sap_in_the_cloud_stories_from_the_field</guid>
+    </item>
+    <item>
+      <title>Webinar: Let the Workloads be Your Guide to the Cloud</title>
+      <description>This on-demand 40 minute webinar shares information on how to let your applications and workloads guide you in your choice of what cloud deployment model you should consider given your business requirements, risk tolerance and compliance requirements.</description>
+      <pubDate>Mon, 01 Apr 2013 10:41:29 -0400</pubDate>
+      <link>http://www.csc.com/cloud/insights/97421-webinar_let_the_workloads_be_your_guide_to_the_cloud</link>
+      <guid>http://www.csc.com/cloud/insights/97421-webinar_let_the_workloads_be_your_guide_to_the_cloud</guid>
+    </item>
+    <item>
+      <title>Webinar: Cloud Lessons Learned: Gain Control, Mitigate Risk and Be Agile</title>
+      <description>A CSC Webinar featuring guest panelist David Tapper, IDC VP, Outsourcing and Offshore Services Market Research and Eli Almog, CTO CSC Cloud discuss cloud lessons learned around maintaining control, mitigating risk and becoming more agile in the Cloud.</description>
+      <pubDate>Mon, 01 Apr 2013 10:42:07 -0400</pubDate>
+      <link>http://www.csc.com/cloud/insights/97417-webinar_cloud_lessons_learned_gain_control_mitigate_risk_and_be_agile</link>
+      <guid>http://www.csc.com/cloud/insights/97417-webinar_cloud_lessons_learned_gain_control_mitigate_risk_and_be_agile</guid>
+    </item>
+    <item>
+      <title>Healthcare Distributor H.D. Smith Rides the CSC WAVE</title>
+      <description>Success Story: David Guzman, CIO of healthcare distributor H.D. Smith, uses CSC's WAVE to gradually migrate critical workloads and applications to the cloud in order to strengthen the enterprise.</description>
+      <pubDate>Fri, 08 Mar 2013 16:41:45 -0500</pubDate>
+      <link>http://www.csc.com/cloud/blog/56858/96721-healthcare_distributor_h_d_smith_rides_the_csc_wave</link>
+      <guid>http://www.csc.com/cloud/blog/56858/96721-healthcare_distributor_h_d_smith_rides_the_csc_wave</guid>
+    </item>
+    <item>
+      <title>How 'Everything as a Service' Can Save CIOs Money</title>
+      <description>As cloud computing emerges as a viable enterprise strategy, CIOs have more options than ever to choose from. But how does XaaS reduce costs, and how does everything fit together?</description>
+      <pubDate>Tue, 02 Jul 2013 11:30:00 -0400</pubDate>
+      <link>http://www.csc.com/cloud/publications/96289/96301-how_everything_as_a_service_can_save_cios_money</link>
+      <guid>http://www.csc.com/cloud/publications/96289/96301-how_everything_as_a_service_can_save_cios_money</guid>
+    </item>
+  </channel>
+</rss>

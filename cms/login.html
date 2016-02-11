@@ -1,0 +1,161 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Login</title>
+<script src="../assets/common_includes-bundle-3428d340088259fe00a57261852a0295.js" type="text/javascript"></script>
+<link href="../assets/common_includes-bundle-f10960aa172b1605a485954b3ca8e024.css" media="screen" rel="stylesheet" type="text/css" />
+<script type="text/javascript" charset="utf-8"> 
+Ext.BLANK_IMAGE_URL = '/assets/s.gif';
+ZeroClipboard.setMoviePath( '/assets/ZeroClipboard10.swf' );
+</script>
+<style>
+em {
+  font-style: italic !important;
+}
+strong {
+  font-weight: bold !important;
+}
+
+</style>
+<!--[if lt IE 8]>
+<style>
+.x-form-item {
+  padding-top:10px;
+}
+</style>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<![endif]-->
+
+
+<link href="../assets/cms-ea9587e12581e4f02deced117deadd38.css" media="screen" rel="stylesheet" type="text/css" />
+<style>
+body {
+	text-align: center;
+}
+
+.muted_text {
+  color: #AAA;
+  text-align: left;
+}
+</style>
+<script type="text/javascript">
+function login() {
+	  form.getForm().submit({
+	    url:'/sessions/validate', 
+        method:'post', 
+        success:function(form, action){
+          submit_form(form, action);
+        },
+        failure: function(form, action) {
+          Ext.MessageBox.hide();
+          Ext.MessageBox.alert('Access Denied', action.result.msg);
+        }
+	  });
+}
+
+function submit_form(form,action)
+{
+ document.forms[0].action = action.result.redirect
+ document.forms[0].submit();
+}
+Ext.onReady(function(){
+
+    Ext.QuickTips.init();
+
+    // Define Acceptable Use Policy panel.
+    var aup_panel = new Ext.Panel({
+      xtype: 'panel',
+      height: 105,
+      width: 534,
+      padding: 5,
+      border: false,
+      bodyCssClass: "muted_text",
+      margins: {
+        top: 200,
+        right: 0,
+        bottom: 0,
+        left: 0
+      },
+      items: [
+          {
+              xtype: 'displayfield',
+              value: 'This is a private computer facility. Access to it for any reason must be specifically authorized. Unauthorized access to this computer facility will expose you to criminal and/or civil proceedings. All information contained in this computer system, including messages, is the property of the company. Subject to applicable law, the company reserves the right to access and disclose all information sent through or stored in this computer system, for any purpose.'
+          }
+      ]
+    });
+
+
+
+    // turn on validation errors beside the field globally
+    Ext.form.Field.prototype.msgTarget = 'side';
+
+    var bd = Ext.getBody();
+
+
+    form = new Ext.FormPanel({
+      labelWidth: 75,
+      frame:true,
+      title: 'CSC Administration Server',
+      style:'margin:100px auto; text-align: left',
+      width: 350,
+      footer: true,
+      keys: [{
+          key: [10,13],
+          fn: function() { login();}
+        }],
+      defaults: {width: 230},
+      defaultType: 'textfield',
+      items: [
+        {
+          xtype:'hidden',
+          name:'cms',
+          value: 'true'
+        },
+        {
+          fieldLabel: 'Login',
+          name: 'login',
+          id: 'login',
+          allowBlank:false
+        },
+        {
+          fieldLabel: 'Password',
+          name: 'password',
+          id: 'password',
+          allowBlank:false,
+          autoCreate: {tag: "input", type: "password", size: "20", autocomplete: "off"}
+        }
+      ],
+      buttonAlign:'center',
+      buttons:[{
+          text: 'Submit',
+          id: 'submit',
+          formBind:true
+        }]
+    });
+
+    var viewport = new Ext.Viewport({
+      layout: {
+        type:  'vbox',
+        align: 'center',
+        pack:  'start'
+      },
+      items: [form, aup_panel]
+    });
+
+    viewport.render("login_form");
+
+    form.startMonitoring();
+
+    Ext.get('login').focus();
+	
+    Ext.get('submit').on('click', login);
+    $('.x-panel-footer').after("<div id='forgot_password'><a href='/utils/users/request_password'>Forgot Password?</a></div>");
+
+});
+</script>
+</head>
+<body>
+  <div id="login_form"></div>
+</body>
+</html>
